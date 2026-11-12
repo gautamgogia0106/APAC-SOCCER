@@ -1,0 +1,15 @@
+# Arduino / editor temporary files
+*.hex
+*.elf
+*.eep
+*.map
+*.o
+*.d
+*.bin
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+.vscode/
+build/
